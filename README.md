@@ -4,6 +4,7 @@ v7.7.2
 
 #### 使用方法
 
+打开 index.js ，输入 App ID 和 App Key
 ```
 $ npm install
 $ node index.js "起始时间" "结束时间" // 举例：node index.js "2017-05-01 00:00:00" "2017-05-22 00:00:00"
